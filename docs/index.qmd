@@ -1,0 +1,15 @@
+---
+title: "Applied Statistics"
+author: "Robin Donatello, Edward Roualdes"
+date: "Last Updated 2023-08-05"
+site: bookdown::bookdown_site
+description: "Course notes for Applied Statistics courses at CSU Chico"
+---
+
+# Preface {.unnumbered}
+
+This document is a set of course notes for several Applied Statistics courses at California State University, Chico. This is not a textbook replacement, and topics covered will vary depending on the instructor. To make this clear we use the term _notebook_ to refer to this document so as not to be confused with a traditional textbook. 
+
+Some data and examples in this notebook are drawn from _[Practical Multivariate Analysis, 6tth ed, Afifi, May, Donatello, Clark](https://www.crcpress.com/Practical-Multivariate-Analysis/Afifi-May-Donatello-Clark/p/book/9781138702226)_ and used with permission by the authors. 
+
+![](../images/openscapes_hex_badge.png){width="25%"} 
